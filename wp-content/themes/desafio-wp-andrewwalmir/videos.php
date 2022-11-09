@@ -8,9 +8,6 @@
 
         <main class="main">
 
-            <h1>TESTE TESTE</h1>
-
-
         </main>
 
 <?php endwhile;
